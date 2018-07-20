@@ -1,4 +1,4 @@
-# flask-series-n.1
+# Flask Series n.1
 
 ## This series are created for my flask learning path.
 
